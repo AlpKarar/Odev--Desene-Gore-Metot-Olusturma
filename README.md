@@ -1,2 +1,2 @@
-# Odev--Desene-Gore-Metot-Olusturma
+# Ödev - Desene Göre Metot Oluşturma
 Patika Dev. | Java101 - Ödev - Desene Göre Metot Oluşturma
